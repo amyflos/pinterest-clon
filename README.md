@@ -1,6 +1,6 @@
 # pinterest-clon
-Copia de la página Pinterest
-Hola! Soy Amy Flores Rojas 🙆‍♀️
+
+Hola! Soy Amy Flores 🙆‍♀️
 
 Soy desarrolladora web Jr. 👩‍💻 apacionada por la tecnología.
 
