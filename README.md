@@ -13,10 +13,6 @@ El proyecto cuenta con las secciones de:
 Creado con:
 HTML
 CSS
-css3 html5 javascript
-
-Vista previa
-
 
 Espero pronto saber de ti
 Correo
